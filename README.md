@@ -10,4 +10,4 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](journal/)
+[Appointment Booking Experience with Zocdoc ](journal/)
