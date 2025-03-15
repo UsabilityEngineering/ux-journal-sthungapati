@@ -18,10 +18,10 @@ Later, I wanted to check the cancellation policy, but it was buried deep in the 
 
 **User Experience Analysis**
 
-A well-designed app should provide clear feedback, allowing users to know what to expect. If Zocdoc had validated my insurance selection in real-time or displayed accurate availability upfront, I wouldn’t have wasted time clicking on providers who weren’t actually available soon. Instead, the app led me through multiple unnecessary steps, only to surprise me with unavailable appointments or unexpected charges.
-Additionally, the app did little to focus on error prevention—helping users avoid mistakes before they happen. A better approach would be to present out-of-network fees and additional costs before users invest time selecting a doctor. Instead, the app only revealed this information at the last step, forcing me to either accept the extra costs or start my search over again.
-One of the biggest frustrations came from how Zocdoc broke my mental model of how booking an appointment should work. When I saw "Available Tomorrow," I assumed I could actually book for the next day. However, the reality was far different. Misleading UI elements like these disrupt user expectations, leading to confusion and frustration.
-Finally, the overall efficiency of the app was poor. The slow page loads, multiple back-and-forth steps, and buried policies made what should have been a quick and simple booking take significantly longer. Instead of streamlining the process, Zocdoc made it more tedious.
+A well-designed app should provide clear **feedback**, allowing users to know what to expect. If Zocdoc had validated my insurance selection in real-time or displayed accurate availability upfront, I wouldn’t have wasted time clicking on providers who weren’t actually available soon. Instead, the app led me through multiple unnecessary steps, only to surprise me with unavailable appointments or unexpected charges.
+Additionally, the app did little to focus on **error prevention**—helping users avoid mistakes before they happen. A better approach would be to present out-of-network fees and additional costs before users invest time selecting a doctor. Instead, the app only revealed this information at the last step, forcing me to either accept the extra costs or start my search over again.
+One of the biggest frustrations came from how Zocdoc broke my **mental model** of how booking an appointment should work. When I saw "Available Tomorrow," I assumed I could actually book for the next day. However, the reality was far different. Misleading UI elements like these disrupt user expectations, leading to confusion and frustration.
+Finally, the overall **efficiency** of the app was poor. The slow page loads, multiple back-and-forth steps, and buried policies made what should have been a quick and simple booking take significantly longer. Instead of streamlining the process, Zocdoc made it more tedious.
 
 **Suggestions for Improvement**
 
@@ -34,5 +34,5 @@ Simplified Cancellation Policy: Display cancellation deadlines and fees at the t
 
 **Conclusion**
 
-Zocdoc offers a convenient way to book doctor appointments, but its usability flaws make the process frustrating. A good UX design should focus on providing clear information, preventing errors, and making interactions efficient. Addressing these issues would significantly improve the user experience, making the app more intuitive and reliable.
+Zocdoc offers a convenient way to book doctor appointments, but its usability flaws make the process frustrating. A **good UX design** should focus on providing clear information, preventing errors, and making interactions efficient. Addressing these issues would significantly improve the user experience, making the app more intuitive and reliable.
 
