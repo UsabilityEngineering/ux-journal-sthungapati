@@ -6,7 +6,7 @@ I'm always eager to learn, grow, and take on new challenges in both my personal 
 
 ## UX Team Project
 
-[Smart Insulin ] (https://github.com/ChicoState/smartinsulin-ux)
+[ Smart Insulin ] (https://github.com/ChicoState/smartinsulin-ux)
 
 ## UX Journal
 
